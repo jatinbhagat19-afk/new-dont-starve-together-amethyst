@@ -183,4 +183,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Don't Starve Together · Updated 2026-11-27 · Shared under the MIT License*
+*Don't Starve Together · Updated 2026-11-28 · Shared under the MIT License*
